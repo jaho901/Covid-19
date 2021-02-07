@@ -1,5 +1,5 @@
-date,day,total_coronic,new_coronic,total_be_cured,total_deceased,negative_result,isolated,released_from_quarantine
-2021-02-06,토,"2,870",2,"2,409",96,"312,706","5,281","96,416"
+date,day,total_coronic,new_coronic,total_be_cured,deceased,total_negative,isolated,total_released
+2021-02-06,토,"2,879",11,"2,445",96,"313,750","5,281","96,416"
 2021-02-05,금,"2,868",15,"2,409",96,"310,850","5,275","95,983"
 2021-02-04,목,"2,853",34,"2,386",96,"308,964","5,289","95,570"
 2021-02-03,수,"2,819",24,"2,366",95,"306,300","5,273","95,246"
